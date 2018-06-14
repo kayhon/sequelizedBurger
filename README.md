@@ -4,13 +4,13 @@
 Give it a try live on Heroku: https://immense-shore-92175.herokuapp.com/
 <br>
 
-NEW SITE = "SEQUELIZED" VERSION<br>
+##NEW SITE = "SEQUELIZED" VERSION<br>
 Give it a try live on Heroku: https://immense-shore-92175.herokuapp.com/<br>
-![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/images/burgdone.jpg)<br><br>
+![User-Menu-View-burgdone-jpg](https://github.com/kayhon/sequelizedBurger/blob/master/public/assets/img/burgdone.jpg)<br><br>
 
 
-OLD SITE = "NOT-SEQUELIZED" or "PRE-SEQUELIZED" VERSION<br>
-Give it a try live on Heroku: https://immense-shore-92175.herokuapp.com/<br>
+###OLD SITE = "NOT-SEQUELIZED" or "PRE-SEQUELIZED" VERSION<br>
+Give it a try live on Heroku: https://frozen-river-40606.herokuapp.com/ <br>
 ![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/images/burg00.jpg)<br><br>
 
 
