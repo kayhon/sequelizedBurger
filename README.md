@@ -1,17 +1,17 @@
 # sequelizedBurger (Eat-da-burger! Part2)
 
-"sequelizedBurger (Eat-da-burger! Part2)" is a remake of my "MySqlBurger (Eat-Da-Burger!)" is a customizable restaurant app that lets users 'Order Burgers From Custom Menu' and/or input the names of burgers they'd like to eat.<br>
+"sequelizedBurger (Eat-da-burger! Part2)" is a remake of my "MySqlBurger (Eat-Da-Burger!)" is a customizable restaurant app that lets users 'Order Burgers From Custom Menu' and/or input the names of burgers they'd like to eat. The mafor difference between theses 2 apps is that this new one is implementing one of todays leading technologies when it comes to using database's "SEQUELIZE". Sequelize is supposed to make the developers life more easy when working with databases even though I feel it wasnt easy for me converting this particular site.<br>
 Give it a try live on Heroku: https://immense-shore-92175.herokuapp.com/
 <br>
 
-##NEW SITE = "SEQUELIZED" VERSION<br>
+## NEW SITE = "SEQUELIZED" VERSION<br>
 Give it a try live on Heroku: https://immense-shore-92175.herokuapp.com/<br>
 ![User-Menu-View-burgdone-jpg](https://github.com/kayhon/sequelizedBurger/blob/master/public/assets/img/burgdone.jpg)<br><br>
 
 
-###OLD SITE = "NOT-SEQUELIZED" or "PRE-SEQUELIZED" VERSION<br>
+### OLD SITE = "NOT-SEQUELIZED" or "PRE-SEQUELIZED" VERSION<br>
 Give it a try live on Heroku: https://frozen-river-40606.herokuapp.com/ <br>
-![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/images/burg00.jpg)<br><br>
+![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/raw/master/public/assets/img/burg00.jpg)<br><br>
 
 
 ## App Features
