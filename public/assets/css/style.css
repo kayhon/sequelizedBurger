@@ -1,0 +1,105 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #none;;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+/* .box1 { */
+  /* padding: 5px;
+  margin: 5px;
+  background: aqua;
+  float: left; */
+
+  /* float: left;
+  padding: 10px;
+  margin: 25pxauto;
+  background: aqua;
+  clear: both;
+  border: 3px solid #73AD21;
+  width: auto;
+
+} */
+
+/* .box2 { */
+  /* padding: 5px;
+  margin: 5px;
+  background: aqua; */
+  
+  /* float: right;
+  padding: 10px;
+  margin: 25px;
+  background: aqua;
+  clear: both;
+  border: 3px solid #73AD21;
+  width: auto;
+} */
+
+.clr{
+	clear:both;
+}
+#main-block{
+	float:left;
+	width:50%;
+	padding:5px;
+	box-sizing: border-box;
+}
+
+#sidebar{
+	float:right;
+	width:50%;
+	padding:5px;
+	box-sizing: border-box;
+}
+
+/* .block{
+  /* background: aqua; */
+	/* float:left;
+	width:33.3%;
+	padding:5px;
+	box-sizing:border-box;
+/* } */ 
+
+/* .container{
+  background: aqua;
+	float:left;
+	width:43.3%;
+	border:1px solid #ccc;
+	padding:10px;
+	box-sizing:border-box;
+} */
+.container{
+	width:80%;
+  margin:auto;
+  background: rgb(224, 224, 224);
+  background-image: url("../img/burg4.jpg");
+}
+
+.center {
+
+  padding: 10px;
+  margin: auto;
+  background: #ebeae8;
+  border: 1px solid rgb(187, 186, 186);
+  width: 33%;
+}
+/* .blah {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+} */
+
