@@ -26,7 +26,7 @@ Give it a try live on Heroku: https://frozen-river-40606.herokuapp.com/ <br>
 
 ### Technologies Used
 
-* Sequelized
+* Sequelize
 * Node.js
 * MySql
 * Express
